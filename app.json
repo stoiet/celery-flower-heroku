@@ -17,10 +17,6 @@
       "FLOWER_BASIC_AUTH": {
         "description": "Accepts user:password pairs separated by a comma. Any client trying to access this Flower instance will be prompted to provide the credentials specified in this argument:user1:password1,user2:password2",
         "value": "admin:adminpass"
-      },
-      "PROJ": {
-        "description": "Project name",
-        "value": ""
       }
     }
   }
